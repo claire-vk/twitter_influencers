@@ -8,8 +8,8 @@ USING org.apache.spark.sql.jdbc
 OPTIONS (
   url "jdbc:mysql://flaskest.csjkhjjygutf.us-east-1.rds.amazonaws.com:3306/flaskdb",
   dbtable "neu_word_cloud",
-  user "flask",
-  password "wizjysys"
+  user "xxx",
+  password "xxx"
 )
 
 -- COMMAND ----------

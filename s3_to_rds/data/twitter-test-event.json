@@ -27,10 +27,10 @@
                "arn":"arn:aws:s3:::wizjysys"
             },
             "object":{  
-               "key":"stream_data",
+               "key":"xxx",
                "size":112,
-               "eTag":"d895e2e2d049232ec2c5b7c6a8471ea3",
-               "sequencer":"00593D8DA2C7C0408A"
+               "eTag":"xxx",
+               "sequencer":"xxx"
             }
             }
             }]
