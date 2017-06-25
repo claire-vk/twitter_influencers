@@ -1,0 +1,12 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": 
+        	{"name": "wizjysys",
+        	"key":"tst"}
+        
+      }
+    }
+  ]
+}

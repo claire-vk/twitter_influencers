@@ -1,0 +1,8 @@
+{
+  "name": "s3-to-rds-t",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::528907355846:role/s3-to-rds-t_lambda_function",
+  "environment": {}
+}
