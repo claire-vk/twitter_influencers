@@ -5,7 +5,7 @@ Jinja2==2.8
 MarkupSafe==0.23
 SQLAlchemy==1.0.8
 WTForms==2.0.2
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 click==4.1
 decorator==4.0.2
 geocoder==1.4.1
